@@ -1,7 +1,7 @@
 # TFTP Server Application
 
 ## Example Screenshot
-![alt text](https://i.ibb.co/dpDN7df/project-screenshot.png)
+![alt text](https://i.ibb.co/z2Z3Nym/project-screenshot.png)
 
 ## English
 - In this project, a simple TFTP Server application that can run on Linux-based operating systems was prepared using the C programming language.
